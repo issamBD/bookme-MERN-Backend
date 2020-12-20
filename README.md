@@ -1,6 +1,6 @@
 # bookme-MERN-Backend
 
-Booke Me is a full stack web app made using the MERN Stack.
+Booke Me is a responsive full stack web app made using the MERN Stack.
 deployed <a href="https://thebookmeproject.netlify.app/">here<a/>
 
 The Concept:
